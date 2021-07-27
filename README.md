@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadrshkashyp&label=Profile%20views&color=0e75b6&style=flat" alt="aadrshkashyp" /> </p>
 
+[![Website](https://img.shields.io/website?label=aadarshkashyap.pw&style=for-the-badge&url=https%3A%2F%2Faadarshkashyap.pw)](https://aadarshkashyap.pw)
+
 <p align="left"> <a href="https://twitter.com/aadarshkashyp" target="blank"><img src="https://img.shields.io/twitter/follow/aadarshkashyp?logo=twitter&style=for-the-badge" alt="aadarshkashyp" /></a> </p>
 
 - 🌱 I’m currently learning **MERN and PHP/Laravel**
